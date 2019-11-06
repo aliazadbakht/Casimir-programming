@@ -12,3 +12,5 @@ import test
 
 
 print (test.area(2))
+
+print("Hello world! Again!")
