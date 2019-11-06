@@ -9,4 +9,6 @@ print('or another')
 
 import test
 
-test.area(2)
+
+
+print (test.area(2))
